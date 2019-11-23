@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2018-04-17
+img: vayushodhaka.png
+alt: image-alt
+project-date: April 2018
+client: N/A 
+category: Electronic Engineering 
+description: Nasa study proves that there are 6-7 plants(including peace Lily) which helps in reducing the atmospheric organic compound (VoC's) which are harmful for breathing. So we applied the same and created a pot shape chamber with fans, Carbon activated filter and System on chip is ESP8266 with industrial ready bosch environment sensor BME680 installed inside it. Now we can monitor and purify the Air Quality Index inside our house. Initially we didn't launch it in the market due to its cost, but are planning to in future. https://www.artiosys.com/vayu-shodhaka/ 
+
+---

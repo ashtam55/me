@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2019-08-04
+img: smartswitch.png
+alt: image-alt
+project-date: August 2019
+client: Abacus Services
+category: Internet of Things
+description: The main goal is to make a hardware device which is compact, low cost and can be retrofitted in any household. This will achieve more targeted customer as no change in initial infrastructure is needed. I helped in technical designing and writing main firmaware program for the devices. The main SoC used is ESP32-WROOM, with RTC crystal alongside to manage scheduled actions. https://www.abacusservices.in/
+
+---
+
+
+
