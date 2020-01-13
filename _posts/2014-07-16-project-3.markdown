@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2017-04-16
+img: TrackO.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: April 2017
+client: CX Systems
+category: Electronic Engineering / Internet Of Things
+description: Track-O is a Cost-effective, compact tracking device which helps our client to locate there assets in Supply Chain Management. In this project,SoC is atmega328 with sim capability provided by sim900a and our star GPS module Ublox Neo 6MV2. Track-O is accurate upto 10 meters after testing for 1-2 weeks in different geographic area.
+https://www.instructables.com/id/Track-O-a-Cost-Efficient-GPS-Tracking-Device-Using/
 
 ---

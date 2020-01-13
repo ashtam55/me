@@ -2,11 +2,12 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: ambientapparel.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: June 2017
+client: Uber India
+category: Electronic Engineering / Internet Of Things
+description: Ambient Apparel is a smart clothes which helps us in express our feeling in a persuasive manner.It contains a led matrix panel of 8x8 made with addressable Neopixels and SoC used is Wemos D1 which is compact in size & easily mounted on apparels.
+https://www.instructables.com/id/Ambient-Apparels-Tees-Which-Love-Talking/
 
 ---
